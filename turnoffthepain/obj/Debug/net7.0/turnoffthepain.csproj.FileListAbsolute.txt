@@ -1,0 +1,14 @@
+C:\Users\s3somi00\Documents\C#\turnoffthepain\bin\Debug\net7.0\turnoffthepain.exe
+C:\Users\s3somi00\Documents\C#\turnoffthepain\bin\Debug\net7.0\turnoffthepain.deps.json
+C:\Users\s3somi00\Documents\C#\turnoffthepain\bin\Debug\net7.0\turnoffthepain.runtimeconfig.json
+C:\Users\s3somi00\Documents\C#\turnoffthepain\bin\Debug\net7.0\turnoffthepain.dll
+C:\Users\s3somi00\Documents\C#\turnoffthepain\bin\Debug\net7.0\turnoffthepain.pdb
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.AssemblyInfoInputs.cache
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.AssemblyInfo.cs
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.csproj.CoreCompileInputs.cache
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.dll
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\refint\turnoffthepain.dll
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.pdb
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\turnoffthepain.genruntimeconfig.cache
+C:\Users\s3somi00\Documents\C#\turnoffthepain\obj\Debug\net7.0\ref\turnoffthepain.dll
